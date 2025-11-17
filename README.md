@@ -41,9 +41,9 @@ JIRA, Confluence, MS Visio, Lucidchart, Draw.io, Power BI, Tableau, ServiceNow, 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<dilipkuchi1223>&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilipkuchi1223&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<dilipkuchi1223>&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipkuchi1223&layout=compact)
 
 ---
 
